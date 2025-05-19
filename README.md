@@ -44,5 +44,6 @@ This dashboard is suitable for HR departments, recruitment teams, or small busin
 6. View updated charts and metrics on the Dashboard sheet.
 
 ## 📷 Screenshots
+![Dashboard](assets/dashboard.png)
+![Input Form](assets/input_form.png)
 
-*(Tambahkan beberapa tangkapan layar jika ada)*
